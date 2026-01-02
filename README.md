@@ -5,10 +5,16 @@ People forget bills, renewals, insurance, MOTs, rent changes.
 This causes stress, late fees, and financial damage.
 
 ## Goal
-A simple tool that ensures you never forget a bill or renewal again.
+A simple tool that ensures you never forget a bill or renewal again. 
+
+Stay simple
+
+Solve one core pain extremely well
+
+Resist feature creep
 
 ## Value Proposition
-“Never miss a bill, renewal, or deadline again.”
+“Never miss a bill, renewal, or deadline again.” 
 
 ## MVP (Phase 1)
 - Add bill name
